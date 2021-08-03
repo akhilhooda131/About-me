@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DARKYYYYYY
 - 👀 I’m interested in Algorithms
-- 🌱 I’m currently learning Intern !!
 - 📫 How to reach me : via mail : akhilhooda23@gmail.com 
 
 <!---
